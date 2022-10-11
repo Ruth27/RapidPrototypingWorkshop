@@ -31,7 +31,7 @@ Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life.
 |Workshop/week|Lead|Subteam skill|Week|
 |---|---|---|---|
 |1|Ruth & Owen|All/Printing service|Oct 3-9|
-|2|Ruth|Consulting|Oct 4-16|
+|2|Ruth|Consulting|Oct 10-16|
 |3|Ruth & Owen|Consulting|Oct 17-23|
 |4|Owen|Printing service|Oct 24-30|
 |5|Ruth & Owen|Firmware|Oct 31-Nov 6|
